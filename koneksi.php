@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
-$user = "root";
-$pass = "";
-$db   = "sig_jepara";
+$user = "your_username";
+$pass = "your_password";
+$db   = "your_db_name";
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
